@@ -84,10 +84,10 @@ author:
   avatar           : "website.png"
   bio              : "Ph.D. Student in ECE at USC"
   location         : 
-  employer         :
+  employer         : "test"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.tw/citations?user=1qCEtO4AAAAJ&hl=en&authuser=1"
-  email            : "yunchenw AT usc DOT edu"
+  email            : "yunchenw@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
