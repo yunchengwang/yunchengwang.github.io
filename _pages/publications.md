@@ -13,14 +13,10 @@ _arXiv preprint (2020)_,
 * Fenxiao Chen, __Yun-Cheng Wang__, Bin Wang, C-C Jay Kuo,
 "Graph Representation Learning: A Survey",
 _APSIPA Transactions on Signal and Information Processing 9 (2020)_,
-[\[paper\](../files/graph_emb_survey.pdf), [\[code\](https://github.com/yunchengwang/GRLL)
+[\[paper\]](../files/graph_emb_survey.pdf), [\[code\]](https://github.com/yunchengwang/GRLL)
 
 * Bin Wang, Angela Wang, Fenxiao Chen, __Yun-Cheng Wang__, C-C Jay Kuo
 "Evaluating word embedding models: Methods and experimental results",
 _APSIPA Transactions on Signal and Information Processing 8 (2019)_,
 [\[paper\]](../files/word_emb_survey.pdf)
 
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
