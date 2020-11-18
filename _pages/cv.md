@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download my pdf version CV](../files/Most_updated_CV.pdf)
+[Download my pdf version CV](../files/Most_updated_CV.pdf){:target="_blank"}
