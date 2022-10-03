@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Yun Cheng (Joe) Wang"
-excerpt: "About me"
+title: "About me"
+excerpt: "Yun Cheng (Joe) Wang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,12 +17,11 @@ Prior to joining USC as a Ph.D. student, I received my B.S. in
 Electrical Engineering from National Taiwan University in 2018, 
 and M.S. in Electrical and Computer Engineering from USC in 2019.
 
-I am actively looking for research intern or software engineer intern
-positions for Summer 2023. My research interests include 
+I am actively looking for research intern positions for Summer 2023.
+My research interests include 
 Knowledge Graphs (KG), Natural Language Processing (NLP), 
 Perceptual Quality Assessment, Representation Learning, and 
 Lightweight Machine Learning Models.
-
 
 Please check out my latest [Curriculum Vitae](../files/__Academic_CV__221003.pdf){:target="_blank"}
 and [short resume](../files/__Short_Resume__221003.pdf){:target="_blank"}.
