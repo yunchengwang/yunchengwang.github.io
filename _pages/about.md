@@ -9,11 +9,21 @@ redirect_from:
 ---
 
 
+I am a 3rd-year Ph.D. student in Electrical and Computer Engineering
+at University of Southern California, supervised by 
+[Prof. C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh)
+in [Media Communication Lab](https://mcl.usc.edu/). 
+Prior to joining USC as a Ph.D. student, I received my B.S. in 
+Electrical Engineering from National Taiwan University in 2018, 
+and M.S. in Electrical and Computer Engineering from USC in 2019.
 
-I am a Ph.D. student in ECE at University of Southern California, supervised by Prof. [C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh). I am fortunate and grateful to join USC Media Communication Lab ([MCL](http://mcl.usc.edu/)) to work with a group of talented scholars.
+I am actively looking for research intern or software engineer intern
+positions for Summer 2023. My research interests include 
+Knowledge Graphs (KG), Natural Language Processing (NLP), 
+Perceptual Quality Assessment, Representation Learning, and 
+Lightweight Machine Learning Models.
 
 
-Prior to joining USC as a Ph.D. student, I received my B.S. degree from National Taiwan University in 2018, and M.S. degree from USC in 2019, both in Electrical Engineering.
-
-
-My research interests include Graph Neural Networks (GNNs), Knowledge Graphs (KGs), and Representation Learning. I am eager to explore how data science could benefit human society.
+Please check out my latest [Curriculum Vitae](../files/__Academic_CV__221003.pdf){:target="_blank"}
+and [short resume](../files/__Short_Resume__221003.pdf){:target="_blank"}.
+(last updated: Oct. 3rd, 2022)
