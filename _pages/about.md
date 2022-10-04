@@ -23,8 +23,8 @@ Knowledge Graphs (KG), Natural Language Processing (NLP),
 Perceptual Quality Assessment, Representation Learning, and 
 Lightweight Machine Learning Models.
 
-Please check out my latest [Curriculum Vitae](../files/__Academic_CV__221003.pdf){:target="_blank"}
-and [short resume](../files/__Short_Resume__221003.pdf){:target="_blank"}.
+Please check out my latest [Curriculum Vitae](../files/latest_cv.pdf){:target="_blank"}
+and [short resume](../files/latest_resume.pdf){:target="_blank"}.
 (last updated: Oct. 3rd, 2022)
 
 # News
