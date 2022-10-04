@@ -35,10 +35,6 @@ Graph Completion Method" is available on [arXiv](https://arxiv.org/abs/2208.0913
 Quality Assessment Method" is accepted by MMSP 2022! [[paper](https://arxiv.org/abs/2206.14400),
 [code](https://github.com/zhanxuanm/GreenBIQA)]
 
-[//]: # (2022-07-12: Our paper "CompoundE: Knowledge Graph Embedding with )
-[//]: # (Translation, Rotation and Scaling Compound Operations" )
-[//]: # (is available on [arXiv]&#40;https://arxiv.org/abs/2207.05324&#41;.)
-
 2022-04-01: Our paper "KGBoost: A Classification-Based Knowledge Base
 Completion Method with Negative Sampling" is accepted by 
 Pattern Recognition Letter! [[paper](https://www.sciencedirect.com/science/article/pii/S0167865522000939),
@@ -60,12 +56,12 @@ Los Angeles, CA. Fight on!
 Processing (CKIP) lab @ Academia Sinica, 
 Taipei, Taiwan.
 
-[//]: # (2020-03-01: Defect engineer @ TSMC, Hsinchu, Taiwan.)
+2020-02-26: Defect analysis engineer @ TSMC, Hsinchu, Taiwan.
 
 2019-12-18: Obtained M.S. in Electrical and Computer Engineering from 
 University of Southern California, Los Angeles, CA. 
 
-2020-05-29: Start internship @ Taboola, Los Angeles, CA.
+2019-05-29: Start internship @ Taboola, Los Angeles, CA.
 
 2018-06-01: Obtained B.S. in Electrical Engineering from National Taiwan University, 
 Taipei, Taiwan.
