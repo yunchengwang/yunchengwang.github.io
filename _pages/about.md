@@ -11,8 +11,8 @@ redirect_from:
 
 I am a 3rd-year Ph.D. student in Electrical and Computer Engineering
 at University of Southern California, supervised by 
-[Prof. C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh)
-in [Media Communication Lab](https://mcl.usc.edu/). 
+[Prof. C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh){:target="_blank"}
+in [Media Communication Lab](https://mcl.usc.edu/){:target="_blank"}. 
 Prior to joining USC as a Ph.D. student, I received my B.S. in 
 Electrical Engineering from National Taiwan University in 2018, 
 and M.S. in Electrical and Computer Engineering from USC in 2019.
@@ -32,13 +32,13 @@ __2022-08-19__: Our paper "GreenKGC: A Lightweight Knowledge
 Graph Completion Method" is available on [arXiv](https://arxiv.org/abs/2208.09137){:target="_blank"}.
 
 __2022-08-03__: Our paper "GreenBIQA: A Lightweight Blind Image
-Quality Assessment Method" is accepted by MMSP 2022! [paper](https://arxiv.org/abs/2206.14400){:target="_blank"},
-[code](https://github.com/zhanxuanm/GreenBIQA){:target="_blank"}
+Quality Assessment Method" is accepted by MMSP 2022! [[paper](https://arxiv.org/abs/2206.14400){:target="_blank"},
+[code](https://github.com/zhanxuanm/GreenBIQA){:target="_blank"}]
 
 __2022-04-01__: Our paper "KGBoost: A Classification-Based Knowledge Base
 Completion Method with Negative Sampling" is accepted by 
-Pattern Recognition Letter! [[paper](https://www.sciencedirect.com/science/article/pii/S0167865522000939),
-[code](https://github.com/yunchengwang/KGBoost-KGC)]
+Pattern Recognition Letter! [[paper](https://www.sciencedirect.com/science/article/pii/S0167865522000939){:target="_blank"},
+[code](https://github.com/yunchengwang/KGBoost-KGC){:target="_blank"}]
 
 __2022-03-20__: Our paper "CORE: A knowledge graph entity type prediction
 method via complex space regression and embedding" is accepted by 
