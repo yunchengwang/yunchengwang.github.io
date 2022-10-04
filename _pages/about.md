@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a 3rd-year Ph.D. student in Electrical and Computer Engineering
+I am a third-year Ph.D. student in Electrical and Computer Engineering
 at University of Southern California, supervised by 
 [Prof. C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh){:target="_blank"}
 in [Media Communication Lab](https://mcl.usc.edu/){:target="_blank"}. 
