@@ -1,14 +1,20 @@
 ---
 layout: archive
-title: "Publications"
+title: "Peer reviewed"
 permalink: /publications/
 author_profile: true
 ---
+* Zhanxuan Mei, __Yun-Cheng Wang__, Xingze He, C-C Jay Kuo,
+"GreenBIQA: A Lightweight Blind Image Quality
+Assessment Method",
+_IEEE MMSP, 2022_.
+[\[paper\]](https://arxiv.org/abs/2206.14400){:target="_blank"}
+, [\[code\]](https://github.com/zhanxuanm/GreenBIQA){:target="_blank"}
 
 * __Yun-Cheng Wang__, Xiou Ge, Bin Wang, C-C Jay Kuo,
 "KGBoost: A classification-based knowledge base completion method with negative sampling",
 _Pattern Recognition Letters, 2022_.
-[\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000939){:target="_blank"}, [\[code\]](https://github.com/BinWang28/Sentence-Embedding-S3E){:target="_blank"}
+[\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000939){:target="_blank"}, [\[code\]](https://github.com/yunchengwang/KGBoost-KGC){:target="_blank"}
   
 * Xiou Ge, __Yun-Cheng Wang__, Bin Wang, C-C Jay Kuo,
 "CORE: A knowledge graph entity type prediction method via complex space regression and embedding",
