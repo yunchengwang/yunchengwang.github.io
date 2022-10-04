@@ -8,7 +8,7 @@ author_profile: true
 "GreenBIQA: A Lightweight Blind Image Quality
 Assessment Method",
 _IEEE MMSP, 2022_.
-[[paper](https://arxiv.org/abs/2206.14400){:target="_blank"}, [code](https://github.com/zhanxuanm/GreenBIQA){:target="_blank"}]
+[[paper](../files/__Short_Resume__221003.pdf){:target="_blank"}, [code](https://github.com/zhanxuanm/GreenBIQA){:target="_blank"}]
 
 * __Yun-Cheng Wang__, Xiou Ge, Bin Wang, C-C Jay Kuo,
 "KGBoost: A classification-based knowledge base completion method with negative sampling",
