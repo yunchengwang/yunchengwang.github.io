@@ -29,11 +29,11 @@ and [short resume](../files/__Short_Resume__221003.pdf){:target="_blank"}.
 
 # News
 __2022-08-19__: Our paper "GreenKGC: A Lightweight Knowledge 
-Graph Completion Method" is available on [arXiv](https://arxiv.org/abs/2208.09137).
+Graph Completion Method" is available on [arXiv](https://arxiv.org/abs/2208.09137){:target="_blank"}.
 
 __2022-08-03__: Our paper "GreenBIQA: A Lightweight Blind Image
-Quality Assessment Method" is accepted by MMSP 2022! [[paper](https://arxiv.org/abs/2206.14400),
-[code](https://github.com/zhanxuanm/GreenBIQA)]
+Quality Assessment Method" is accepted by MMSP 2022! [paper](https://arxiv.org/abs/2206.14400){:target="_blank"},
+[code](https://github.com/zhanxuanm/GreenBIQA){:target="_blank"}
 
 __2022-04-01__: Our paper "KGBoost: A Classification-Based Knowledge Base
 Completion Method with Negative Sampling" is accepted by 
@@ -42,7 +42,7 @@ Pattern Recognition Letter! [[paper](https://www.sciencedirect.com/science/artic
 
 __2022-03-20__: Our paper "CORE: A knowledge graph entity type prediction
 method via complex space regression and embedding" is accepted by 
-Pattern Recognition Letter! [[paper](https://www.sciencedirect.com/science/article/pii/S0167865522000897)]
+Pattern Recognition Letter! [[paper](https://www.sciencedirect.com/science/article/pii/S0167865522000897){:target="_blank"}]
 
 __2021-10-29__: Our research "Rule-Guided Knowledge Graph Completion: A Binary Classification Approach"
 is presented in the 11th ECE research festival.
