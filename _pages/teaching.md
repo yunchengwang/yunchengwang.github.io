@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
 * Zhanxuan Mei, __Yun-Cheng Wang__, Xingze He, C-C Jay Kuo,
 "GreenBIQA: A Lightweight Blind Image Quality
 Assessment Method",
