@@ -25,9 +25,17 @@ Edge AI, and Lightweight Machine Learning Models.
 
 Please check out my latest [Curriculum Vitae](../files/latest_cv.pdf){:target="_blank"}
 and [short resume](../files/latest_resume.pdf){:target="_blank"}.
-(last updated: Oct. 3rd, 2022)
+(last updated: Jul. 9th, 2023)
 
 # News
+__2023-05-01__: Our paper "GreenKGC: A Lightweight Knowledge 
+Graph Completion Method" is accepted to ACL2023! [[camera-ready](../files/GreenKGC_camera_ready.pdf){:target="_blank"}].
+
+__2023-05-01__: Our paper "Compounding Geometric Operations 
+for Knowledge Graph Completion" is accepted to ACL2023! [[camera-ready](../files/GreenKGC_camera_ready.pdf){:target="_blank"}].
+
+__2023-01-17__: Pass the Ph.D. Qualifying exam!
+
 __2022-08-19__: Our paper "GreenKGC: A Lightweight Knowledge 
 Graph Completion Method" is available on [arXiv](https://arxiv.org/abs/2208.09137){:target="_blank"}.
 
@@ -47,7 +55,7 @@ Pattern Recognition Letter! [[paper](https://www.sciencedirect.com/science/artic
 __2021-10-29__: Our research "Rule-Guided Knowledge Graph Completion: A Binary Classification Approach"
 is presented in the 11th ECE research festival.
 
-__2021-05-20__: Pass the Ph.D. screening exam.
+__2021-05-20__: Pass the Ph.D. screening exam!
 
 __2021-01-10__: Start Ph.D. in ECE @ University of Southern California,
 Los Angeles, CA. Fight on!
