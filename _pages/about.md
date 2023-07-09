@@ -17,40 +17,26 @@ Prior to joining USC as a Ph.D. student, I received my B.S. in
 Electrical Engineering from National Taiwan University in 2018, 
 and M.S. in Electrical and Computer Engineering from USC in 2019.
 
-I am actively looking for postdoc and faculty positions.
+I am actively looking for postdoc or faculty positions.
 My research interests include 
 Knowledge Graphs (KG), Natural Language Processing (NLP), 
 Perceptual Quality Assessment, Representation Learning, 
 Edge AI, and Lightweight Machine Learning Models.
 
-Please check out my latest [Curriculum Vitae](../files/latest_cv.pdf){:target="_blank"}
-and [short resume](../files/latest_resume.pdf){:target="_blank"}.
+Please check out my latest [CV](../files/latest_cv.pdf){:target="_blank"}.
 (last updated: Jul. 9th, 2023)
 
 # News
-__2023-05-01__: Our paper "GreenKGC: A Lightweight Knowledge 
-Graph Completion Method" is accepted to ACL2023! [[camera-ready](../files/GreenKGC_camera_ready.pdf){:target="_blank"}].
+__2023-07-09__: I will be presenting two posters at ACL2023 in Toronto. Let's 
+meet and chat!
 
-__2023-05-01__: Our paper "Compounding Geometric Operations 
-for Knowledge Graph Completion" is accepted to ACL2023! [[camera-ready](../files/GreenKGC_camera_ready.pdf){:target="_blank"}].
+__2023-05-22__: Start Internship @ Yahoo as a Research Intern in the
+Knowledge Graph Science team.
 
-__2023-01-17__: Pass the Ph.D. Qualifying exam!
+__2023-01-17__: Pass the Ph.D. Qualifying exam! I am now a Ph.D. candidate!
 
-__2022-08-19__: Our paper "GreenKGC: A Lightweight Knowledge 
-Graph Completion Method" is available on [arXiv](https://arxiv.org/abs/2208.09137){:target="_blank"}.
-
-__2022-08-03__: Our paper "GreenBIQA: A Lightweight Blind Image
-Quality Assessment Method" is accepted by MMSP 2022! [[paper](https://arxiv.org/abs/2206.14400){:target="_blank"},
-[code](https://github.com/zhanxuanm/GreenBIQA){:target="_blank"}]
-
-__2022-04-01__: Our paper "KGBoost: A Classification-Based Knowledge Base
-Completion Method with Negative Sampling" is accepted by 
-Pattern Recognition Letter! [[paper](https://www.sciencedirect.com/science/article/pii/S0167865522000939){:target="_blank"},
-[code](https://github.com/yunchengwang/KGBoost-KGC){:target="_blank"}]
-
-__2022-03-20__: Our paper "CORE: A knowledge graph entity type prediction
-method via complex space regression and embedding" is accepted by 
-Pattern Recognition Letter! [[paper](https://www.sciencedirect.com/science/article/pii/S0167865522000897){:target="_blank"}]
+__2022-10-28__: Our research "“A Multi-stage Classification Framework for Knowledge Graph Completion"
+is presented in the 12th ECE research festival.
 
 __2021-10-29__: Our research "Rule-Guided Knowledge Graph Completion: A Binary Classification Approach"
 is presented in the 11th ECE research festival.
