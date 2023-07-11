@@ -5,28 +5,44 @@ permalink: /news/
 author_profile: true
 ---
 
-* __Yun-Cheng Wang__, Xiou Ge, Bin Wang, C-C Jay Kuo,
-"KGBoost: A classification-based knowledge base completion method with negative sampling",
-_Pattern Recognition Letters, 2022_.
-[\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000939){:target="_blank"}, [\[code\]](https://github.com/BinWang28/Sentence-Embedding-S3E){:target="_blank"}
-  
-* Xiou Ge, __Yun-Cheng Wang__, Bin Wang, C-C Jay Kuo,
-"CORE: A knowledge graph entity type prediction method via complex space regression and embedding",
-_Pattern Recognition Letters, 2022_.
-[\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000897){:target="_blank"}
-  
-* Bin Wang, Fenxiao Chen, __Yun-Cheng Wang__, C-C Jay Kuo,
-"Efficient Sentence Embedding via Semantic Subspace Analysis",
-_International Conference on Pattern Recognition (ICPR), 2020_.
-[\[paper\]](../files/s3e.pdf){:target="_blank"}, [\[code\]](https://github.com/BinWang28/Sentence-Embedding-S3E){:target="_blank"}
+__2023-07-09__: I will be presenting two work, 
+[GreenKGC](https://virtual2023.aclweb.org/paper_P5760.html){:target="_blank"}
+and 
+[CompoundE](https://virtual2023.aclweb.org/paper_P5771.html){:target="_blank"}, 
+at ACL2023 in Toronto. Let's meet and chat!
 
-* Fenxiao Chen, __Yun-Cheng Wang__, Bin Wang, C-C Jay Kuo,
-"Graph Representation Learning: A Survey",
-_APSIPA Transactions on Signal and Information Processing, 2020_.
-[\[paper\]](../files/graph_emb_survey.pdf){:target="_blank"}, [\[code\]](https://github.com/yunchengwang/GRLL){:target="_blank"}
+__2023-05-22__: Start Internship @ Yahoo! as a Research Intern in the
+Knowledge Graph Science team. I will be working on the entity
+summarization project.
 
-* Bin Wang, Angela Wang, Fenxiao Chen, __Yun-Cheng Wang__, C-C Jay Kuo
-"Evaluating word embedding models: Methods and experimental results",
-_APSIPA Transactions on Signal and Information Processing, 2019_.
-[\[paper\]](../files/word_emb_survey.pdf){:target="_blank"}
+__2023-01-17__: I pass the Ph.D. Qualifying exam! I am now a Ph.D. candidate!
+
+__2022-10-28__: Our research "A Multi-stage Classification Framework for Knowledge Graph Completion"
+is presented in the 12th ECE research festival.
+
+__2021-10-29__: Our research "Rule-Guided Knowledge Graph Completion: A Binary Classification Approach"
+is presented in the 11th ECE research festival.
+
+__2021-05-20__: I pass the Ph.D. screening exam!
+
+__2021-01-10__: Start Ph.D. in ECE @ University of Southern California,
+Los Angeles, CA. Fight on!
+
+__2020-09-15__: Invited talk "Introduction to Knowledge Graphs: Construction, 
+Embeddings, and Applications" @ National Taiwan Normal University
+, Taipei, Taiwan.
+
+__2020-09-01__: Research assistant in [Chinese Knowledge Information
+Processing (CKIP) lab](https://ckip.iis.sinica.edu.tw/){:target="_blank"} @ Academia Sinica, 
+Taipei, Taiwan.
+
+__2020-02-26__: Defect analysis engineer @ TSMC, Hsinchu, Taiwan.
+
+__2019-12-18__: Obtained M.S. in Electrical and Computer Engineering from 
+University of Southern California, Los Angeles, CA. 
+
+__2019-05-29__: Start internship @ Taboola, Los Angeles, CA.
+
+__2018-06-01__: Obtained B.S. in Electrical Engineering from National Taiwan University, 
+Taipei, Taiwan.
 
