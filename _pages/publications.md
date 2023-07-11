@@ -4,11 +4,36 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* __Yun-Cheng Wang__, Jintang Xue, Chengwei Wei, C-C Jay Kuo,
+"An Overview on Generative AI at Scale with Edge-Cloud Computing",
+_Under Review_.
+[[paper](https://arxiv.org/abs/2306.17170){:target="_blank"}]
+
+* __Yun-Cheng Wang__, Xiou Ge, Bin Wang, C-C Jay Kuo,
+"AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations",
+_Under Review_.
+
+* __Yun-Cheng Wang__, Xiou Ge, Bin Wang, C-C Jay Kuo,
+"GreenKGC: A Lightweight Knowledge Graph Completion Method",
+_Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)_.
+[[paper](https://aclanthology.org/2023.acl-long.591/){:target="_blank"},
+[code](https://github.com/yunchengwang/GreenKGC){:target="_blank"}]
+
+* Xiou Ge, __Yun-Cheng Wang__, Bin Wang, C-C Jay Kuo,
+"CompoundE: Knowledge Graph Embedding with Translation, Rotation and Scaling Compound Operations",
+_Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)_.
+[[paper](https://aclanthology.org/2023.acl-long.384/){:target="_blank"},
+[code](https://github.com/hughxiouge/CompoundE){:target="_blank"}]
+
+* Xiou Ge, __Yun-Cheng Wang__, Bin Wang, C-C Jay Kuo,
+"TypeEA: Type-Associated Embedding for Knowledge Graph Entity Alignment",
+_APSIPA Transactions on Signal and Information Processing 12.1 (2023)_.
+
 * Zhanxuan Mei, __Yun-Cheng Wang__, Xingze He, C-C Jay Kuo,
 "GreenBIQA: A Lightweight Blind Image Quality
 Assessment Method",
 _IEEE MMSP, 2022_.
-[[paper](https://arxiv.org/abs/2206.14400){:target="_blank"}, [code](https://github.com/zhanxuanm/GreenBIQA){:target="_blank"}]
+[[paper](https://ieeexplore.ieee.org/document/9948927/){:target="_blank"}, [code](https://github.com/zhanxuanm/GreenBIQA){:target="_blank"}]
 
 * __Yun-Cheng Wang__, Xiou Ge, Bin Wang, C-C Jay Kuo,
 "KGBoost: A classification-based knowledge base completion method with negative sampling",
