@@ -11,7 +11,7 @@ _Under Review_.
 
 * __Yun-Cheng Wang__, Xiou Ge, Bin Wang, C-C Jay Kuo,
 "AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations",
-_Under Review_.
+_Under Review_.[[paper](../files/TypeEA.pdf){:target="_blank"}]
 
 * __Yun-Cheng Wang__, Xiou Ge, Bin Wang, C-C Jay Kuo,
 "GreenKGC: A Lightweight Knowledge Graph Completion Method",
@@ -28,6 +28,7 @@ _Proceedings of the 61st Annual Meeting of the Association for Computational Lin
 * Xiou Ge, __Yun-Cheng Wang__, Bin Wang, C-C Jay Kuo,
 "TypeEA: Type-Associated Embedding for Knowledge Graph Entity Alignment",
 _APSIPA Transactions on Signal and Information Processing 12.1 (2023)_.
+[[paper](../files/TypeEA.pdf){:target="_blank"}]
 
 * Zhanxuan Mei, __Yun-Cheng Wang__, Xingze He, C-C Jay Kuo,
 "GreenBIQA: A Lightweight Blind Image Quality
