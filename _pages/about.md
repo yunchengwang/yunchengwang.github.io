@@ -25,8 +25,7 @@ Recently, I am working on scaling generative AI services under an
 edge-cloud computing paradigm to improve user privacy, and time and 
 computation efficiency.
 
-***I will be graduating this December (2023). 
-I am actively looking for a faculty or a full-time
+***I am actively looking for a faculty or a full-time
 research scientist position.***
 
 Please check out my latest [CV](../files/latest_cv.pdf){:target="_blank"}.
