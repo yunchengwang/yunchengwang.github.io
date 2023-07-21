@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<sup>*</sup> denotes equal contribution.
-
 ### 2023
 * __Yun-Cheng Wang__, Jintang Xue, Chengwei Wei, C-C Jay Kuo,
 "An Overview on Generative AI at Scale with Edge-Cloud Computing",
@@ -43,6 +41,7 @@ _arXiv_.
 "Lightweight High-Performance Blind Image Quality Assessment",
 _arXiv_.
 [[paper](https://arxiv.org/abs/2303.13057){:target="_blank"}]
+(* denotes equal contribution.)
 
 * Xiou Ge, __Yun-Cheng Wang__, Bin Wang, C-C Jay Kuo,
 "Knowledge Graph Embedding with 3D Compound Geometric Transformations",
