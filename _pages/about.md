@@ -17,16 +17,19 @@ Prior to joining USC as a Ph.D. student, I received my B.S. in
 Electrical Engineering from National Taiwan University in 2018, 
 and M.S. in Electrical and Computer Engineering from USC in 2019.
 
-I have worked on various knowledge graph (KG) research topics, including 
-KG completion, KG representation learning, and combing KGs with LLMs. 
-Specifically, I focus on developing lightweight and transparent
-ML models.
-Recently, I am working on scaling generative AI services under an 
-edge-cloud computing paradigm to improve user privacy, and time and 
-computation efficiency.
+My am interested in diverse fundamental knowledge graph (KG)
+research, including KG completion, KG representation 
+learning, and combing KGs with large language models (LLMs) 
+for interpretable and efficient reasoning. 
+My primary emphasis lies in the development of lightweight and 
+transparent machine learning (ML) models to solve the research
+problems.
 
-***I am actively looking for a faculty or a full-time
-research scientist position.***
+Recently, my research has been dedicated to the advancement of 
+generative artificial intelligence (AI) services within an 
+edge-cloud computing paradigm. The objective is to enhance
+user privacy, minimize inference time, optimize power efficiency, 
+and facilitate computation offloading in the context of scaled AI systems.
 
 Please check out my latest [CV](../files/latest_cv.pdf){:target="_blank"}.
 (last updated: Jul. 9th, 2023) for more information!
