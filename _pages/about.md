@@ -32,5 +32,5 @@ user privacy, minimize inference time, optimize power efficiency,
 and facilitate computation offloading in the context of scaled AI systems.
 
 Please check out my latest [CV](../files/__Academic_CV__230721.pdf){:target="_blank"}.
-(last updated: Jul. 9th, 2023) for more information!
+(last updated: Jul. 21st, 2023) for more information!
 
