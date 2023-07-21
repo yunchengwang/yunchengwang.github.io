@@ -37,7 +37,7 @@ _arXiv_.
 _arXiv_.
 [[paper](https://arxiv.org/abs/2306.10386){:target="_blank"}]
 
-* Zhanxuan Mei<sup>*</sup>, __Yun-Cheng Wang__<sup>*</sup>, Xingze He, Yong Yan, C-C Jay Kuo,
+* Zhanxuan Mei*, __Yun-Cheng Wang*__, Xingze He, Yong Yan, C-C Jay Kuo,
 "Lightweight High-Performance Blind Image Quality Assessment",
 _arXiv_.
 [[paper](https://arxiv.org/abs/2303.13057){:target="_blank"}]
