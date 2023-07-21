@@ -17,13 +17,12 @@ Prior to joining USC as a Ph.D. student, I received my B.S. in
 Electrical Engineering from National Taiwan University in 2018, 
 and M.S. in Electrical and Computer Engineering from USC in 2019.
 
-My am interested in diverse fundamental knowledge graph (KG)
+I am interested in diverse fundamental knowledge graph (KG)
 research, including KG completion, KG representation 
 learning, and combing KGs with large language models (LLMs) 
 for interpretable and efficient reasoning. 
 My primary emphasis lies in the development of lightweight and 
-transparent machine learning (ML) models to solve the research
-problems.
+transparent machine learning (ML) models.
 
 Recently, my research has been dedicated to the advancement of 
 generative artificial intelligence (AI) services within an 
