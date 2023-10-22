@@ -5,6 +5,11 @@ permalink: /news/
 author_profile: true
 ---
 
+__2023-10-20__: I successfully defended my PhD thesis. My thesis is
+titled "Green Knowledge Graph Completion and Scalable Generative Content
+Delivery." I am actively looking for a faculty
+position in Fall 2024.
+
 __2023-07-09__: I will be presenting two work, 
 [GreenKGC](https://virtual2023.aclweb.org/paper_P5760.html){:target="_blank"}
 and 
@@ -31,11 +36,11 @@ Los Angeles, CA. Fight on!
 __2020-09-15__: Invited talk "Introduction to Knowledge Graphs: Construction, 
 Embeddings, and Applications" @ National Taiwan Normal University, Taipei, Taiwan.
 
-__2020-09-01__: Research assistant in [Chinese Knowledge Information
+__2020-09-01__: Start research assistant in [Chinese Knowledge Information
 Processing (CKIP) lab](https://ckip.iis.sinica.edu.tw/){:target="_blank"} @ Academia Sinica, 
 Taipei, Taiwan.
 
-__2020-02-26__: Defect analysis engineer @ TSMC, Hsinchu, Taiwan.
+[//]: # (__2020-02-26__: Defect analysis engineer @ TSMC, Hsinchu, Taiwan.)
 
 __2019-12-18__: Obtained M.S. in Electrical and Computer Engineering from 
 University of Southern California, Los Angeles, CA. 

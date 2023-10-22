@@ -6,14 +6,24 @@ author_profile: true
 ---
 
 ### 2023
+* Xiou Ge, __Yun-Cheng Wang__, Bin Wang, C-C Jay Kuo,
+"Knowledge Graph Embedding: An Overview",
+_Submitted to APSIPA Transactions on Signal and Information Processing_.
+[[paper](https://arxiv.org/abs/2309.12501){:target="_blank"}
+
+* Jintang Xue, __Yun-Cheng Wang__, Chengwei Wei, Xiaofeng Liu, Jonghye Woo, C-C Jay Kuo,
+"Bias and Fairness in Chatbots: An Overview",
+_Submitted to APSIPA Transactions on Signal and Information Processing_.
+[[paper](https://arxiv.org/abs/2309.08836){:target="_blank"}] 
+
 * __Yun-Cheng Wang__, Jintang Xue, Chengwei Wei, C-C Jay Kuo,
 "An Overview on Generative AI at Scale with Edge-Cloud Computing",
-_arXiv_.
-[[paper](https://arxiv.org/abs/2306.17170){:target="_blank"}]
+_Accepted for publication in IEEE OJCOMS_.
+[[paper](https://ieeexplore.ieee.org/document/10268594){:target="_blank"}]
 
 * __Yun-Cheng Wang__, Xiou Ge, Bin Wang, C-C Jay Kuo,
 "AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations",
-_Under Review_. [[paper](../files/AsyncET.pdf){:target="_blank"}]
+_Submitted to ACM Web Conf_. [[paper](../files/AsyncET.pdf){:target="_blank"}]
 
 * __Yun-Cheng Wang__, Xiou Ge, Bin Wang, C-C Jay Kuo,
 "GreenKGC: A Lightweight Knowledge Graph Completion Method",
@@ -29,28 +39,28 @@ _Proceedings of the 61st Annual Meeting of the Association for Computational Lin
 
 * Chengwei Wei, __Yun-Cheng Wang__, Bin Wang, C-C Jay Kuo,
 "An Overview on Language Models: Recent Developments and Outlook",
-_arXiv_.
+_Accepted for publication in APSIPA Transactions on Signal and Information Processing_.
 [[paper](https://arxiv.org/abs/2303.05759){:target="_blank"}]
 
 * Zhanxuan Mei, __Yun-Cheng Wang__, C-C Jay Kuo,
 "Blind Video Quality Assessment at the Edge",
-_arXiv_.
+_Submitted to IEEE Transactions on Multimedia_.
 [[paper](https://arxiv.org/abs/2306.10386){:target="_blank"}]
 
 * Zhanxuan Mei*, __Yun-Cheng Wang*__, Xingze He, Yong Yan, C-C Jay Kuo,
 "Lightweight High-Performance Blind Image Quality Assessment",
-_arXiv_.
+_Submitted to IEEE Transactions on Image Processing_.
 [[paper](https://arxiv.org/abs/2303.13057){:target="_blank"}]
 (* denotes equal contribution.)
 
 * Xiou Ge, __Yun-Cheng Wang__, Bin Wang, C-C Jay Kuo,
 "Knowledge Graph Embedding with 3D Compound Geometric Transformations",
-_arXiv_.
+_Submitted to IEEE Transactions on Knowledge and Data Engineering_.
 [[paper](https://arxiv.org/abs/2304.00378){:target="_blank"}]
 
 * Xiou Ge, __Yun-Cheng Wang__, Bin Wang, C-C Jay Kuo,
 "TypeEA: Type-Associated Embedding for Knowledge Graph Entity Alignment",
-_APSIPA Transactions on Signal and Information Processing 12.1 (2023)_.
+_APSIPA Transactions on Signal and Information Processing, 2023_.
 [[paper](../files/TypeEA.pdf){:target="_blank"}]
 
 ### 2022
