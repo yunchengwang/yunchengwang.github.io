@@ -13,7 +13,7 @@ _Submitted to APSIPA Transactions on Signal and Information Processing_.
 
 * Jintang Xue, __Yun-Cheng Wang__, Chengwei Wei, Xiaofeng Liu, Jonghye Woo, C-C Jay Kuo,
 "Bias and Fairness in Chatbots: An Overview",
-_Submitted to APSIPA Transactions on Signal and Information Processing_.
+_Accepted for publication in APSIPA Transactions on Signal and Information Processing_.
 [[paper](https://arxiv.org/abs/2309.08836){:target="_blank"}] 
 
 * __Yun-Cheng Wang__, Jintang Xue, Chengwei Wei, C-C Jay Kuo,

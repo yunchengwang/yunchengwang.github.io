@@ -5,6 +5,13 @@ permalink: /news/
 author_profile: true
 ---
 
+__2023-11-15__: As a way to give back to the community and promote diversity,
+I am holding AI/ML office hours every week for students 
+interested in learning AI/ML knowledge or conducting AI/ML 
+research to chat on exciting topics. Priority is given to the 
+underrepresented group in engineering. Please use the link to 
+sign up: https://forms.gle/McNSxmW94hsL8KEW8.
+
 __2023-10-20__: I successfully defended my PhD thesis. My thesis is
 titled "Green Knowledge Graph Completion and Scalable Generative Content
 Delivery." I am actively looking for a faculty
