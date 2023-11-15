@@ -10,7 +10,7 @@ I am holding AI/ML office hours every week for students
 interested in learning AI/ML knowledge or conducting AI/ML 
 research to chat on exciting topics. Priority is given to the 
 underrepresented group in engineering. Please use the link to 
-sign up: https://forms.gle/McNSxmW94hsL8KEW8.
+sign up: [form](https://forms.gle/McNSxmW94hsL8KEW8){:target="_blank"}.
 
 __2023-10-20__: I successfully defended my PhD thesis. My thesis is
 titled "Green Knowledge Graph Completion and Scalable Generative Content
