@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2024
 * Tsung-Shan Yang, __Yun-Cheng Wang__, Chengwei Wei, C-C Jay Kuo,
-"GHOI: A Green Human-objectinteraction Detector",
+"GHOI: A Green Human-object-interaction Detector",
 _Under review, ICME 2024_.
 
 ### 2023
