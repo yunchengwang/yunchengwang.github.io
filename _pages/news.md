@@ -34,7 +34,7 @@ __2023-05-22__: Start Internship @ Yahoo! as a Research Intern in the
 Knowledge Graph Science team. I will be working on the entity
 summarization project.
 
-__2023-01-17__: I pass the Ph.D. Qualifying exam! I am now a Ph.D. candidate!
+__2023-01-17__: I pass the Ph.D. qualifying exam! I am now a Ph.D. candidate!
 
 __2022-10-28__: Our research "A Multi-stage Classification Framework for Knowledge Graph Completion"
 will be presented in the 12th ECE research festival.
