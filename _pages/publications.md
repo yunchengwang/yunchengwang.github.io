@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Tsung-Shan Yang, __Yun-Cheng Wang__, Chengwei Wei, C-C Jay Kuo,
+"GHOI: A Green Human-objectinteraction Detector",
+_Under review, ICME 2024_.
+
 ### 2023
 * Xiou Ge, __Yun-Cheng Wang__, Bin Wang, C-C Jay Kuo,
 "Knowledge Graph Embedding: An Overview",
@@ -22,7 +26,7 @@ _IEEE Open Journal of the Communications Society, vol. 4_.
 [[paper](https://ieeexplore.ieee.org/document/10268594){:target="_blank"}]
 
 * __Yun-Cheng Wang__, Xiou Ge, Bin Wang, C-C Jay Kuo,
-"AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations",
+"AsyncET: Asynchronous Representation Learning for Knowledge Graph Entity Typing",
 _Under review, KDD 2024_.
 
 * __Yun-Cheng Wang__, Xiou Ge, Bin Wang, C-C Jay Kuo,
