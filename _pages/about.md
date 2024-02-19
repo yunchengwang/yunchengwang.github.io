@@ -38,6 +38,6 @@ edge-cloud computing paradigm. The objective is to enhance
 user privacy, minimize inference time, optimize power efficiency, 
 and facilitate computation offloading in the context of scaled AI systems.
 
-Please check out my latest [CV](../files/cv_231020.pdf){:target="_blank"}.
-(last updated: Oct. 20th, 2023) for more information!
+Please check out my latest [CV](../files/cv_240219.pdf){:target="_blank"}.
+(last updated: Feb. 19, 2024) for more information!
 
