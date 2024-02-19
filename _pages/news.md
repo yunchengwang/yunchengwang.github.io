@@ -5,6 +5,11 @@ permalink: /news/
 author_profile: true
 ---
 
+__2024-01-16__: I am joining Yahoo as a research scientist under the search
+science team. I am excited to embark on the new journey!
+
+__2023-11-15__:
+
 __2023-11-15__: As a way to give back to the community and promote diversity,
 I am holding AI/ML office hours every week for students 
 interested in learning AI/ML knowledge or conducting AI/ML 
