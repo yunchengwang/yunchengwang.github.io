@@ -24,7 +24,6 @@ _IEEE Open Journal of the Communications Society, vol. 4_.
 * __Yun-Cheng Wang__, Xiou Ge, Bin Wang, C-C Jay Kuo,
 "AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations",
 _Under review, KDD 2024_.
-[//]: # ([[paper]&#40;../files/AsyncET.pdf&#41;{:target="_blank"}])
 
 * __Yun-Cheng Wang__, Xiou Ge, Bin Wang, C-C Jay Kuo,
 "GreenKGC: A Lightweight Knowledge Graph Completion Method",
@@ -52,7 +51,7 @@ _Available on arXiv_.
 "Lightweight High-Performance Blind Image Quality Assessment",
 _Available on arXiv_.
 [[paper](https://arxiv.org/abs/2303.13057){:target="_blank"}]
-(* denotes equal contribution.)
+(equal contribution)
 
 * Xiou Ge, __Yun-Cheng Wang__, Bin Wang, C-C Jay Kuo,
 "Knowledge Graph Embedding with 3D Compound Geometric Transformations",
