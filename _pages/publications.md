@@ -5,7 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 2024
+My research focuses on knowledge graphs (KGs), natural language processing (NLP), and information retrieval.
+
+Please check out my [[Google Scholar](https://scholar.google.com.tw/citations?user=1qCEtO4AAAAJ&hl=en&authuser=1){:target="_blank"}] page for a full updated list of my publications.
+
+<!-- ### 2024
 * Tsung-Shan Yang, __Yun-Cheng Wang__, Chengwei Wei, C-C Jay Kuo,
 "GHOI: A Green Human-object-interaction Detector",
 _Under review, ICME 2024_.
@@ -103,5 +107,5 @@ _APSIPA Transactions on Signal and Information Processing, 2020_.
 * Bin Wang, Angela Wang, Fenxiao Chen, __Yun-Cheng Wang__, C-C Jay Kuo
 "Evaluating word embedding models: Methods and experimental results",
 _APSIPA Transactions on Signal and Information Processing, 2019_.
-[[paper](../files/word_emb_survey.pdf){:target="_blank"}]
+[[paper](../files/word_emb_survey.pdf){:target="_blank"}] -->
 

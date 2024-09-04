@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Yun Cheng (Joe) Wang"
+name                     : &name "Yun-Cheng (Joe) Wang"
 description              : &description "Ph.D. Student in ECE @ USC"
 url                      : "https://yunchengwang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yun-Cheng (Joe) Wang"
   avatar           : "website.png"
-  bio              : "Research @ Yahoo | Ph.D. @ USC ECE"
-  location         : "Los Angeles, CA"
+  bio              : "Research Scientist @ Yahoo Search | Ph.D. @ USC ECE"
+  location         : "Mountain View, CA"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.tw/citations?user=1qCEtO4AAAAJ&hl=en&authuser=1"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yun-cheng-joe-wang-902589107"
+  linkedin         : "https://www.linkedin.com/in/joewang622/"
   orcid            : "https://orcid.org/0000-0001-9778-4806"
   pinterest        :
   soundcloud       :

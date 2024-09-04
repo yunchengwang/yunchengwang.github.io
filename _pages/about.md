@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Yun Cheng (Joe) Wang"
+excerpt: "Yun-Cheng (Joe) Wang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,15 +9,18 @@ redirect_from:
 ---
 
 I am currently a research scientist at Yahoo Research under the search science team.
-I work on query understanding and search page optimization to enhance the
-users' search experience.
+I primarly work on query understanding and whole-page optimization to enhance
+user engagaement and search experience for 900M monthly active users.
 
 Prior to joining Yahoo Research. I obtained my Ph.D. in Electrical and 
-Computer Engineering at the University of Southern California (USC) in 
-December 2023, supervised by 
-[Prof. C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh){:target="_blank"}.
-I am proud to be the 171st Ph.D. from
-[Media Communication Lab](https://mcl.usc.edu/){:target="_blank"}!
+Computer Engineering from University of Southern California (USC) in 
+2023, and my B.S. in Electrical Engineering from National Taiwan
+University (NTU) in 2019. 
+
+I am proud to be the 171st Ph.D. from the
+[Media Communication Lab](https://mcl.usc.edu/){:target="_blank"} led by 
+[Prof. C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh){:target="_blank"}, and a part of the
+[mathematical genealogy project](https://genealogy.math.ndsu.nodak.edu/id.php?id=305226).
 
 [//]: # (Prior to joining USC as a Ph.D. student, I received my B.S. in )
 
@@ -40,16 +43,16 @@ I am proud to be the 171st Ph.D. from
 I am interested in diverse fundamental knowledge graph (KG)
 research, including KG completion, KG representation 
 learning, and combining KGs with large language models (LLMs) 
-for interpretable and efficient reasoning. 
-My primary emphasis lies in the development of lightweight and 
-transparent machine learning (ML) models.
+for fact-grounded reasoning. 
+<!-- My primary emphasis lies in the development of lightweight and 
+transparent machine learning (ML) models. -->
 
-Recently, my research has been dedicated to the advancement of 
+<!-- Recently, my research has been dedicated to the advancement of 
 generative AI (GenAI) services within an 
 edge-cloud computing paradigm. The objective is to enhance
 user privacy, minimize inference time, optimize power efficiency, 
-and facilitate computation offloading in the context of scaled AI systems.
+and facilitate computation offloading in the context of scaled AI systems. -->
 
-Please check out my latest [CV](../files/cv_240219.pdf){:target="_blank"}.
-(last updated: Feb. 19, 2024) for more information!
+Please check out my latest CV [[Full](../files/240904_full_v2.pdf){:target="_blank"}, [two-page](../files/240904_twoPage_v5.pdf){:target="_blank"}].
+(last updated: Sep. 4, 2024) for more information!
 
