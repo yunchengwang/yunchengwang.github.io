@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-My research focuses on knowledge graphs (KGs), natural language processing (NLP), and information retrieval.
+My research spans knowledge graphs (KGs), natural language processing (NLP), information retrieval, multi-modality reasoning, and on-device AI.
 
-Please check out my [[Google Scholar](https://scholar.google.com.tw/citations?user=1qCEtO4AAAAJ&hl=en&authuser=1){:target="_blank"}] page for a full updated list of my publications.
+Please check out my [Google Scholar](https://scholar.google.com.tw/citations?user=1qCEtO4AAAAJ&hl=en&authuser=1){:target="_blank"} page for a full updated list of my publications.
 
 <!-- ### 2024
 * Tsung-Shan Yang, __Yun-Cheng Wang__, Chengwei Wei, C-C Jay Kuo,

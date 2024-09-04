@@ -11,6 +11,8 @@ redirect_from:
 I am currently a research scientist at Yahoo Research under the search science team.
 I primarly work on query understanding and whole-page optimization to enhance
 user engagaement and search experience for 900M monthly active users.
+As a machine learning engineer and researcher, I am devoted to developing efficient, 
+lightweight, and scalable systems.
 
 Prior to joining Yahoo Research. I obtained my Ph.D. in Electrical and 
 Computer Engineering from University of Southern California (USC) in 
@@ -53,6 +55,6 @@ edge-cloud computing paradigm. The objective is to enhance
 user privacy, minimize inference time, optimize power efficiency, 
 and facilitate computation offloading in the context of scaled AI systems. -->
 
-Please check out my latest CV [[Full](../files/240904_full_v2.pdf){:target="_blank"}, [two-page](../files/240904_twoPage_v5.pdf){:target="_blank"}].
+Please check out my latest CV [[Full](../files/240904_full_v2.pdf){:target="_blank"}, [two-page](../files/240904_twoPage_v5.pdf){:target="_blank"}]
 (last updated: Sep. 4, 2024) for more information!
 
