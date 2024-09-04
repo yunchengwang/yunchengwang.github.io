@@ -22,7 +22,7 @@ University (NTU) in 2019.
 I am proud to be the 171st Ph.D. from the
 [Media Communication Lab](https://mcl.usc.edu/){:target="_blank"} led by 
 [Prof. C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh){:target="_blank"}, and a part of the
-[mathematical genealogy project](https://genealogy.math.ndsu.nodak.edu/id.php?id=305226).
+[mathematical genealogy project](https://genealogy.math.ndsu.nodak.edu/id.php?id=305226){:target="_blank"}.
 
 [//]: # (Prior to joining USC as a Ph.D. student, I received my B.S. in )
 
