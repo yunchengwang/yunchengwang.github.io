@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 excerpt: "Yun-Cheng (Joe) Wang"
 author_profile: true
 redirect_from: 
