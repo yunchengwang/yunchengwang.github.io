@@ -22,7 +22,7 @@ University (NTU) in 2019.
 I am proud to be the 171st Ph.D. from the
 [Media Communication Lab](https://mcl.usc.edu/){:target="_blank"} led by 
 [Prof. C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh){:target="_blank"}, and a part of the
-[mathematical genealogy project](https://genealogy.math.ndsu.nodak.edu/id.php?id=305226){:target="_blank"}.
+[mathematics genealogy project](https://genealogy.math.ndsu.nodak.edu/id.php?id=305226){:target="_blank"}.
 
 [//]: # (Prior to joining USC as a Ph.D. student, I received my B.S. in )
 
@@ -55,6 +55,6 @@ edge-cloud computing paradigm. The objective is to enhance
 user privacy, minimize inference time, optimize power efficiency, 
 and facilitate computation offloading in the context of scaled AI systems. -->
 
-Please check out my latest CV [[full](../files/240904_full_v3.pdf){:target="_blank"}, [two-page](../files/240904_twoPage_v6.pdf){:target="_blank"}]
-(last updated: Sep. 4, 2024) for more information!
+Please check out my latest CV [[full-length](../files/240904_full_v3.pdf){:target="_blank"}, [two-page](../files/240904_twoPage_v6.pdf){:target="_blank"}]
+(last updated: Sep. 2024) for more information!
 
