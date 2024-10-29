@@ -14,7 +14,7 @@ user engagaement and search experience for 900M monthly active users.
 As a machine learning engineer and researcher, I am devoted to developing efficient, 
 lightweight, and scalable systems.
 
-Prior to joining Yahoo Research. I obtained my Ph.D. in Electrical and 
+Prior to joining Yahoo Research, I obtained my Ph.D. in Electrical and 
 Computer Engineering from University of Southern California (USC) in 
 2023, and my B.S. in Electrical Engineering from National Taiwan
 University (NTU) in 2019. 
