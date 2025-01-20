@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yun-Cheng (Joe) Wang"
-description              : &description "Ph.D. Student in ECE @ USC"
+description              : &description ""
 url                      : "https://yunchengwang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yunchengwang/yunchengwang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yun-Cheng (Joe) Wang"
   avatar           : "website.png"
-  bio              : "Research Scientist @ Yahoo Search | Ph.D. @ USC ECE"
+  bio              : "MLE @ \uf8ff Apple | Ph.D. from USC"
   location         : "Mountain View, CA"
   employer         : 
   pubmed           : 
