@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an machine learning engineering at Apple working on Siri. 
-Previously, I was a research scientist at Yahoo Search, working on query understanding and whole-page optimization.
+I am a senior machine learning engineer at Apple working on improving Siri. 
+Previously, I was a research scientist at Yahoo Search, focusing on query understanding and knowledge graphs.
 
 I obtained my Ph.D. in Electrical and Computer Engineering from University 
 of Southern California (USC) in 2023, and my B.S. in Electrical Engineering 
