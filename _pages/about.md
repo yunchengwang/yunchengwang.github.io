@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior machine learning engineer at Apple working on improving Siri. 
-Previously, I was a research scientist at Yahoo Search, focusing on query understanding and knowledge graphs.
+I am a senior machine learning engineer at Apple developing Siri. 
+Previously, I was a research scientist at Yahoo, focusing on query understanding and knowledge graphs.
 
 I obtained my Ph.D. in Electrical and Computer Engineering from University 
 of Southern California (USC) in 2023, and my B.S. in Electrical Engineering 
@@ -27,5 +27,5 @@ research, including KG completion, KG representation
 learning, and combining KGs with large language models (LLMs) 
 for fact-grounded reasoning. 
 
-Please check out my [latest CV](../files/full_cv_250518.pdf){:target="_blank"} for more information!
+Please check out my [latest CV](../files/full_cv_250715.pdf){:target="_blank"} for more information!
 
