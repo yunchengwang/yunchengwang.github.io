@@ -27,5 +27,5 @@ research, including KG completion, KG representation
 learning, and combining KGs with large language models (LLMs) 
 for fact-grounded reasoning. 
 
-Please check out my [latest CV](../files/full_cv_250715.pdf){:target="_blank"} for more information!
+Please check out my [latest CV](../files/cv_250715.pdf){:target="_blank"} for more information!
 
